@@ -1,3 +1,3 @@
 # Delivery Food
 
-[DeliveryFood](https://iguides.github.io/distance/)
+[DeliveryFood](https://iguides.github.io/DeliveryFood/)
